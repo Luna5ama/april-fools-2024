@@ -35,7 +35,7 @@ switch(Math.floor(Math.random() * 16)) {
         break;
     case 11:
     case 12:
-        msg.innerHTML = "Funck town'd!"
+        msg.innerHTML = "Funky town'd!"
         window.location.href = "https://youtu.be/t9NU4d2c8-A?t=3793";
         break;
     default:
