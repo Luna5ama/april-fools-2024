@@ -35,7 +35,7 @@ switch(Math.floor(Math.random() * 16)) {
     case 10:
     case 11:
         msg.innerHTML = "Skibidi Toilet'd!"
-        window.location.href = "https://youtu.be/8DZjxjhUFwM?t=3";
+        window.location.href = "https://youtube.com/shorts/tzD9OxAHtzU";
         break;
     case 12:
     case 13:
