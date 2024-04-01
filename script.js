@@ -17,33 +17,29 @@ switch(Math.floor(Math.random() * 16)) {
         window.location.href = "https://youtu.be/gkTb9GP9lVI?t=4";
         break;
     case 6:
-        msg.innerHTML = "Pull up!"
-        window.location.href = "https://youtu.be/oLsVrshvOaI?t=10";
-        break;
-    case 7:
         msg.innerHTML = "Roger Roger'd!"
         window.location.href = "https://youtu.be/PKocF-P4Phs";
         break;
-    case 8:
+    case 7:
         msg.innerHTML = "HEYYEYAAEYAAAEYAEYAA!"
-        window.location.href = "https://youtu.be/ZZ5LpwO-An4";
+        window.location.href = "https://www.youtube.com/shorts/OhycqFlYsHU";
         break;
-    case 9:
+    case 8:
         msg.innerHTML = "Skibidi'd!"
         window.location.href = "https://youtu.be/bjPu3_u7tYA?t=6";
         break;
+    case 9:
     case 10:
-    case 11:
         msg.innerHTML = "Skibidi Toilet'd!"
         window.location.href = "https://youtube.com/shorts/tzD9OxAHtzU";
         break;
+    case 11:
     case 12:
-    case 13:
         msg.innerHTML = "Funck town'd!"
         window.location.href = "https://youtu.be/t9NU4d2c8-A?t=3793";
         break;
     default:
         msg.innerHTML = "IndiHomed!";
-        window.location.href = "https://youtu.be/_IneeB-UDFA?t=60"; 
+        window.location.href = "https://www.youtube.com/shorts/ioAYB-4Jbm8"; 
         break;
 }
